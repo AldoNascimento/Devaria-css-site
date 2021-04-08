@@ -7,6 +7,7 @@ header link-logo {
 }
 
 header nav ul {
+    padding: 0;
     text-align: center;
 }
 header nav ul li {
