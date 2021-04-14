@@ -1,0 +1,9 @@
+/* Estilos relacionados a pagina fale conosco */
+
+.sub-title {
+    margin: 0 20px;
+}
+
+main .contact-form > div {
+    margin: 15px 0;
+}
